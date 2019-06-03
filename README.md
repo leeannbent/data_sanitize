@@ -13,7 +13,7 @@ Format of the data is expected to be:
 ### Prerequisites
 
 This code is written for Python 2.7. It assumes the installation of the 
-pytz library, which can be found [here][https://pypi.org/project/pytz/]. 
+pytz library, which can be found [here](https://pypi.org/project/pytz/). 
 
 ### Running 
 
