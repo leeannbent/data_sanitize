@@ -12,8 +12,8 @@ Format of the data is expected to be:
 
 ### Prerequisites
 
-This code is written for Python 2.7. It assumes the installation of the 
-pytz library, which can be found [here](https://pypi.org/project/pytz/). 
+This code is written for Python 2.7 on Ubuntu 16.04.6. It assumes the installation 
+of the pytz library, which can be found [here](https://pypi.org/project/pytz/). 
 
 ### Running 
 
